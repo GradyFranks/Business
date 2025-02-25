@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="screen.css">
+</head>
+<body>
+    <header class="background-image" id="resume-background">
+        <!-- Insert background image via CSS -->
+    </header>
+    <main>
+        <div class="photo-container">
+            <img src="your-photo.jpg" alt="Your Photo" class="circular-photo">
+        </div>
+        <div class="text-box">
+            <h1>Resume</h1>
+            <p>Insert your resume details here.</p>
+        </div>
+    </main>
+    <nav class="bottom-nav">
+        <a href="homepage.html">Home</a>
+        <a href="aboutme.html">About Me</a>
+        <a href="resume.html">Resume</a>
+    </nav>
+</body>
+</html>
 
