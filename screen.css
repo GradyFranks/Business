@@ -53,6 +53,19 @@ main {
     text-align: center;
 }
 
+/* Translucent black box with soft edges on homepage */
+.translucent-box {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.left-align {
+    align-self: flex-start;
+    margin-left: 20px;
+}
+
 .photo-container {
     display: flex;
     justify-content: center;
