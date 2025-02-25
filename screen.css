@@ -20,15 +20,15 @@ header.background-image {
 }
 
 #homepage-background {
-    background-image: url('your-homepage-background.jpg');
+    background-image: url('photos/IMG_6303.jpg');
 }
 
 #aboutme-background {
-    background-image: url('your-aboutme-background.jpg');
+    background-image: url('photos/michigan-state-university.jpg');
 }
 
 #resume-background {
-    background-image: url('your-resume-background.jpg');
+    background-image: url('photos/MSUbackgrund.png');
 }
 
 main {

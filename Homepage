@@ -13,7 +13,7 @@
     <main>
         <div class="text-box">
             <h1>Welcome to My Website</h1>
-            <p>This is the homepage. Insert your content here.</p>
+            <p>This is a place where you can learn more about me, my journey, and my projects. I am currently a fourth-year student at Michigan State University, and I have a strong passion for technology and problem-solving. Feel free to explore the sections below!</p>
         </div>
     </main>
     <nav class="bottom-nav">
