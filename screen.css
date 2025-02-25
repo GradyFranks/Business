@@ -14,9 +14,13 @@ body {
 
 header.background-image {
     width: 100%;
-    height: 200px;
     background-size: cover;
     background-position: center;
+}
+
+/* Full screen background for header */
+.full-screen {
+    height: 100vh;
 }
 
 #homepage-background {

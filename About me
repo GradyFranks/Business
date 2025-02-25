@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="screen.css">
 </head>
 <body>
-    <header class="background-image" id="aboutme-background">
+    <header class="background-image full-screen" id="aboutme-background">
         <!-- Insert background image via CSS -->
     </header>
     <main>
@@ -23,3 +23,4 @@
     </nav>
 </body>
 </html>
+
