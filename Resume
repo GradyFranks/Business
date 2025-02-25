@@ -8,7 +8,7 @@
 </head>
 <body>
     <header class="background-image" id="resume-background">
-        
+        <!-- Insert background image via CSS -->
     </header>
     <main>
         <div class="photo-container">
@@ -16,14 +16,13 @@
         </div>
         <div class="text-box">
             <h1>Resume</h1>
-            <p>Hello! I'm Grady Frankhouse, I am a fourth-year student at Michigan State University #GoGreen. Below is my resume!</p>
+            <p>Insert your resume details here.</p>
         </div>
     </main>
     <nav class="bottom-nav">
-        <a href="homepage.html">Home</a>
+        <a href="index.html">Home</a>
         <a href="aboutme.html">About Me</a>
         <a href="resume.html">Resume</a>
     </nav>
 </body>
 </html>
-

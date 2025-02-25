@@ -13,14 +13,13 @@
     <main>
         <div class="text-box">
             <h1>About Me</h1>
-            <p>Hi! I’m from Southeast Michigan. I love movies, music, and sports. My passion for coding stems from my father, a software engineer at GM.</p>
+            <p>Insert information about yourself here.</p>
         </div>
     </main>
     <nav class="bottom-nav">
-        <a href="homepage.html">Home</a>
+        <a href="index.html">Home</a>
         <a href="aboutme.html">About Me</a>
         <a href="resume.html">Resume</a>
     </nav>
 </body>
 </html>
-
