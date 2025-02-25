@@ -27,8 +27,8 @@ header.background-image {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
-    padding-top: 20px;
+    justify-content: flex-end;
+    padding-bottom: 50px;
 }
 
 .full-screen {
@@ -37,14 +37,6 @@ header.background-image {
 
 #homepage-background {
     background-image: url('photos/IMG_6303.jpg');
-}
-
-#aboutme-background {
-    background-image: url('photos/michigan-state-university.jpg');
-}
-
-#resume-background {
-    background-image: url('photos/MSUbackgrund.png');
 }
 
 .text-box {
@@ -58,58 +50,11 @@ header.background-image {
     max-width: 600px;
 }
 
-.small-width {
-    max-width: 320px;
-}
-
-.absolute-left {
+.center-bottom {
     position: absolute;
-    top: 20%;
-    left: 20px;
-}
-
-.top-center {
-    align-self: center;
-    margin-top: 20px;
-}
-
-.photo-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    margin: 10px 0;
-}
-
-.medium-photo {
-    width: 180px;
-    height: 180px;
-    border-radius: 12px;
-    object-fit: cover;
-    margin-top: 15px;
-}
-
-.circular-photo {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid rgba(255, 255, 255, 0.8);
-}
-
-.large-photo-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    gap: 20px;
-    padding-bottom: 20px;
-}
-
-.large-photo {
-    width: 90%;
-    max-width: 600px;
-    border-radius: 10px;
-    object-fit: contain;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .side-links {
@@ -143,18 +88,13 @@ header.background-image {
         padding: 15px;
     }
 
-    .large-photo {
-        width: 95%;
-    }
-
     .link-box {
         font-size: 14px;
         width: 90px;
         padding: 8px 12px;
     }
 
-    .absolute-left {
-        left: 10px;
-        top: 15%;
+    .center-bottom {
+        bottom: 10px;
     }
 }
